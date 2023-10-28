@@ -1,0 +1,6 @@
+[book]
+authors = ["The Keyscript Developers"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Keyscript Book"
